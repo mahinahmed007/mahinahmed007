@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Mahin Ahmed  
 
 🎓 **Computer Science Engineering Student**  
-💡 Passionate about **UI Design, Web Development, and  No-Code Development **  
+💡 Passionate about #UI Design, Web Development, and  No-Code Development #  
 🚀 Currently exploring **Framer, React, and JavaScript**
 
 ---
