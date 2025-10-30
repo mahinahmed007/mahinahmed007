@@ -1,8 +1,8 @@
-# 👋 Hey, I'm Mahin Ahmed  
+# 👋 Hi — I'm Mahin Ahmed
 
-🎓 **Computer Science Engineering Student**  
-💡 Passionate about **UI Design, No-Code Development, and 3D Web Experiences**  
-🚀 Currently exploring **Framer, React, and JavaScript**
+🎓 B.E. Computer Science & Engineering  
+🎨 UI Designer · 🎬 Freelance Video Editor · 💻 No-code & Frontend dev  
+🔭 Exploring **React**, **Framer**, **Spline** and 3D web experiences
 
 ---
 
@@ -16,20 +16,13 @@
 
 ---
 
-### 🧩 Featured Projects
-🔹 [Innov8athon Website](https://github.com/mahinahmed/innov8athon) — Futuristic event website built using **Framer**  
-🔹 [3D PS5 Controller Showcase](https://github.com/mahinahmed/ps5-3d) — **Spline + Framer** interactive 3D product page  
-🔹 [RoadMate App](https://github.com/mahinahmed/roadmate) — **React Native + Firebase** travel assistant with AI chatbot  
+### 📈 GitHub Stats
+![Mahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahinahmed&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahinahmed&layout=compact)
 
 ---
 
-### 📊 GitHub Stats
-![Mahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahinahmed&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahinahmed&layout=compact&theme=radical)
-
----
-
-### ✉️ Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-Mahin%20Ahmed-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
+### ✉️ Contact
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=framer&logoColor=white)](https://YOUR-PORTFOLIO-LINK)
 [![Email](https://img.shields.io/badge/-mahinahmed@example.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahinahmed@example.com)
