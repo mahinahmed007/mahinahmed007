@@ -35,3 +35,9 @@
 [![LinkedIn](https://img.shields.io/badge/-Mahin%20Ahmed-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mahinahmedr)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=framer&logoColor=white)](https://YOUR-PORTFOLIO-LINK)
 [![Email](https://img.shields.io/badge/-mahinahmed@example.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahinahmedr007@gmail.com)
+
+
+
+
+
+<img src="https://raw.githubusercontent.com/mahinahmed007/mahinahmed007/output/snake.svg" alt="Snake animation" />
