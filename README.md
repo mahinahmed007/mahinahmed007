@@ -39,5 +39,3 @@
 
 
 
-
-<img src="https://raw.githubusercontent.com/mahinahmed007/mahinahmed007/output/snake.svg" alt="Snake animation" />
